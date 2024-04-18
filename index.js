@@ -31,10 +31,10 @@
 // console.log(paragraph.replace("Ruth's", 'my'));
 
 
-// var str = 'The quick brown | fox jumps over the lazy dog.';
+var str = 'The quick brown | fox jumps over the lazy dog.';
 
-// console.log(str.split(""))
-// console.log(str.split("|"))
+console.log(str.split(""))
+console.log(str.split("|"))
 
 // var sentence = 'The quick brown fox 111 jumps overs, the lazy dog.';
 
