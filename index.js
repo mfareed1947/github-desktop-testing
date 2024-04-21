@@ -26,7 +26,7 @@
 // console.log(capp, "capp")
 
 
-// var paragraph = "I think Ruth's dog is cute than your dog!";
+var paragraph = "I think Ruth's dog is cute than your dog!";
 
 console.log(paragraph.replace("Ruth's", 'my'));
 
