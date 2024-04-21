@@ -28,7 +28,7 @@
 
 // var paragraph = "I think Ruth's dog is cute than your dog!";
 
-// console.log(paragraph.replace("Ruth's", 'my'));
+console.log(paragraph.replace("Ruth's", 'my'));
 
 
 // var str = 'The quick brown | fox jumps over the lazy dog.';
